@@ -4,7 +4,6 @@
  <terraintypes>
   <terrain name="Collider block" tile="0"/>
   <terrain name="Collider cross" tile="1"/>
-  <terrain name="Ladder" tile="2"/>
  </terraintypes>
  <tile id="0" type="Collider_block" terrain="0,0,0,0">
   <objectgroup draworder="index">
@@ -16,5 +15,5 @@
    <object id="1" x="0" y="0" width="128" height="128"/>
   </objectgroup>
  </tile>
- <tile id="2" type="Ladder" terrain="2,2,2,2"/>
+ <tile id="2" type="Ladder"/>
 </tileset>
