@@ -4,12 +4,14 @@ ScriptedImporter:
   fileIDToRecycleName:
     100000: _MapPrfab/map_400x400
     100002: _MapPrfab/map_400x400/above
+    100004: _MapPrfab/map_400x400/terrainsType
     100460: _MapPrfab/map_400x400/ground
     100462: _MapPrfab/map_400x400/props
     100464: _MapPrfab/map_400x400/rails
     100466: _MapPrfab/map_400x400/shadows
     400000: _MapPrfab/map_400x400/Transform
     400002: _MapPrfab/map_400x400/above/Transform
+    400004: _MapPrfab/map_400x400/terrainsType/Transform
     400460: _MapPrfab/map_400x400/ground/Transform
     400462: _MapPrfab/map_400x400/props/Transform
     400464: _MapPrfab/map_400x400/rails/Transform
@@ -18,6 +20,8 @@ ScriptedImporter:
     11400002: _MapPrfab/map_400x400/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
     11400004: _MapPrfab/map_400x400/above/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
     11400006: _MapPrfab/map_400x400/above/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400008: _MapPrfab/map_400x400/terrainsType/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400010: _MapPrfab/map_400x400/terrainsType/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
     11400464: _MapPrfab/map_400x400/ground/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
     11400466: _MapPrfab/map_400x400/ground/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
     11400468: _MapPrfab/map_400x400/props/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
@@ -30,11 +34,13 @@ ScriptedImporter:
     100100000: _MapPrfab
     2569400265252428796: _MapPrfab/map_400x400/Grid
     3664157343022684176: _MapPrfab/map_400x400/above/TilemapRenderer
+    3664157343022684178: _MapPrfab/map_400x400/terrainsType/TilemapRenderer
     3664157343022684180: _MapPrfab/map_400x400/ground/TilemapRenderer
     3664157343022684182: _MapPrfab/map_400x400/props/TilemapRenderer
     3664157343022684184: _MapPrfab/map_400x400/rails/TilemapRenderer
     3664157343022684186: _MapPrfab/map_400x400/shadows/TilemapRenderer
     8195094279510102542: _MapPrfab/map_400x400/above/Tilemap
+    8195094279510102544: _MapPrfab/map_400x400/terrainsType/Tilemap
     8195094279510102546: _MapPrfab/map_400x400/ground/Tilemap
     8195094279510102548: _MapPrfab/map_400x400/props/Tilemap
     8195094279510102550: _MapPrfab/map_400x400/rails/Tilemap
@@ -44,7 +50,9 @@ ScriptedImporter:
   assetBundleName: 
   assetBundleVariant: 
   script: {fileID: 11500000, guid: 1fa25d03934ea624a82bf2fcee6f0873, type: 3}
-  errors: []
+  errors:
+  - Could not find tile 513. Your imported map will have holes until this is fixed.
+  - Could not find tile 514. Your imported map will have holes until this is fixed.
   warnings: []
   missingSortingLayers: []
   missingLayers: []
