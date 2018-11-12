@@ -2,15 +2,55 @@ fileFormatVersion: 2
 guid: 541068778b876c143836ff86af8e18a6
 ScriptedImporter:
   fileIDToRecycleName:
+    2800000: Atlas_terrains_1
     11400000: _TilesetScriptObject
     11400002: _superAsset
+    11400004: Tile_terrains_1
+    11400006: Tile_terrains_2
+    11400008: Tile_terrains_3
+    11400010: Tile_terrains_4
+    11400012: Tile_terrains_5
+    11400014: Tile_terrains_6
+    11400016: Tile_terrains_7
+    11400018: Tile_terrains_8
+    11400020: Tile_terrains_9
+    11400022: Tile_terrains_10
+    11400024: Tile_terrains_11
+    11400026: Tile_terrains_12
+    11400028: Tile_terrains_13
+    11400030: Tile_terrains_14
+    11400032: Tile_terrains_15
+    11400034: Tile_terrains_16
+    11400036: Tile_terrains_17
+    11400038: Tile_terrains_18
+    11400040: Tile_terrains_19
+    11400042: Tile_terrains_20
+    21300000: Sprite_terrains_1
+    21300002: Sprite_terrains_2
+    21300004: Sprite_terrains_3
+    21300006: Sprite_terrains_4
+    21300008: Sprite_terrains_5
+    21300010: Sprite_terrains_6
+    21300012: Sprite_terrains_7
+    21300014: Sprite_terrains_8
+    21300016: Sprite_terrains_9
+    21300018: Sprite_terrains_10
+    21300020: Sprite_terrains_11
+    21300022: Sprite_terrains_12
+    21300024: Sprite_terrains_13
+    21300026: Sprite_terrains_14
+    21300028: Sprite_terrains_15
+    21300030: Sprite_terrains_16
+    21300032: Sprite_terrains_17
+    21300034: Sprite_terrains_18
+    21300036: Sprite_terrains_19
+    21300038: Sprite_terrains_20
   externalObjects: {}
   userData: 
   assetBundleName: 
   assetBundleVariant: 
   script: {fileID: 11500000, guid: cc34d0f3dc257a442819830b408c5322, type: 3}
-  errors:
-  - 'Missing texture asset: collison.png'
+  errors: []
   warnings: []
   missingSortingLayers: []
   missingLayers: []
