@@ -163,23 +163,6 @@ ScriptedImporter:
     100316: _MapPrfab/map_400x400/terrainsType/Collision_Default/Polygon (154)
     100318: _MapPrfab/map_400x400/terrainsType/Collision_Default/Polygon (155)
     100320: _MapPrfab/map_400x400/terrainsType/Collision_Default/Polygon (156)
-    100322: _MapPrfab/map_400x400/terrainsType/Collision_Default/Polygon (157)
-    100324: _MapPrfab/map_400x400/terrainsType/Collision_Default/Polygon (158)
-    100326: _MapPrfab/map_400x400/terrainsType/Collision_Default/Polygon (159)
-    100328: _MapPrfab/map_400x400/terrainsType/Collision_Default/Polygon (160)
-    100330: _MapPrfab/map_400x400/terrainsType/Collision_Default/Polygon (161)
-    100332: _MapPrfab/map_400x400/terrainsType/Collision_Default/Polygon (162)
-    100334: _MapPrfab/map_400x400/terrainsType/Collision_Default/Polygon (163)
-    100336: _MapPrfab/map_400x400/terrainsType/Collision_Default/Polygon (164)
-    100338: _MapPrfab/map_400x400/terrainsType/Collision_Default/Polygon (165)
-    100340: _MapPrfab/map_400x400/terrainsType/Collision_Default/Polygon (166)
-    100342: _MapPrfab/map_400x400/terrainsType/Collision_Default/Polygon (167)
-    100344: _MapPrfab/map_400x400/terrainsType/Collision_Default/Polygon (168)
-    100346: _MapPrfab/map_400x400/terrainsType/Collision_Default/Polygon (169)
-    100348: _MapPrfab/map_400x400/terrainsType/Collision_Default/Polygon (170)
-    100350: _MapPrfab/map_400x400/terrainsType/Collision_Default/Polygon (171)
-    100352: _MapPrfab/map_400x400/terrainsType/Collision_Default/Polygon (172)
-    100354: _MapPrfab/map_400x400/terrainsType/Collision_Default/Polygon (173)
     100460: _MapPrfab/map_400x400/ground
     100462: _MapPrfab/map_400x400/props
     100464: _MapPrfab/map_400x400/rails
@@ -345,23 +328,6 @@ ScriptedImporter:
     400316: _MapPrfab/map_400x400/terrainsType/Collision_Default/Polygon (154)/Transform
     400318: _MapPrfab/map_400x400/terrainsType/Collision_Default/Polygon (155)/Transform
     400320: _MapPrfab/map_400x400/terrainsType/Collision_Default/Polygon (156)/Transform
-    400322: _MapPrfab/map_400x400/terrainsType/Collision_Default/Polygon (157)/Transform
-    400324: _MapPrfab/map_400x400/terrainsType/Collision_Default/Polygon (158)/Transform
-    400326: _MapPrfab/map_400x400/terrainsType/Collision_Default/Polygon (159)/Transform
-    400328: _MapPrfab/map_400x400/terrainsType/Collision_Default/Polygon (160)/Transform
-    400330: _MapPrfab/map_400x400/terrainsType/Collision_Default/Polygon (161)/Transform
-    400332: _MapPrfab/map_400x400/terrainsType/Collision_Default/Polygon (162)/Transform
-    400334: _MapPrfab/map_400x400/terrainsType/Collision_Default/Polygon (163)/Transform
-    400336: _MapPrfab/map_400x400/terrainsType/Collision_Default/Polygon (164)/Transform
-    400338: _MapPrfab/map_400x400/terrainsType/Collision_Default/Polygon (165)/Transform
-    400340: _MapPrfab/map_400x400/terrainsType/Collision_Default/Polygon (166)/Transform
-    400342: _MapPrfab/map_400x400/terrainsType/Collision_Default/Polygon (167)/Transform
-    400344: _MapPrfab/map_400x400/terrainsType/Collision_Default/Polygon (168)/Transform
-    400346: _MapPrfab/map_400x400/terrainsType/Collision_Default/Polygon (169)/Transform
-    400348: _MapPrfab/map_400x400/terrainsType/Collision_Default/Polygon (170)/Transform
-    400350: _MapPrfab/map_400x400/terrainsType/Collision_Default/Polygon (171)/Transform
-    400352: _MapPrfab/map_400x400/terrainsType/Collision_Default/Polygon (172)/Transform
-    400354: _MapPrfab/map_400x400/terrainsType/Collision_Default/Polygon (173)/Transform
     400460: _MapPrfab/map_400x400/ground/Transform
     400462: _MapPrfab/map_400x400/props/Transform
     400464: _MapPrfab/map_400x400/rails/Transform
@@ -524,23 +490,6 @@ ScriptedImporter:
     6000308: _MapPrfab/map_400x400/terrainsType/Collision_Default/Polygon (154)/PolygonCollider2D
     6000310: _MapPrfab/map_400x400/terrainsType/Collision_Default/Polygon (155)/PolygonCollider2D
     6000312: _MapPrfab/map_400x400/terrainsType/Collision_Default/Polygon (156)/PolygonCollider2D
-    6000314: _MapPrfab/map_400x400/terrainsType/Collision_Default/Polygon (157)/PolygonCollider2D
-    6000316: _MapPrfab/map_400x400/terrainsType/Collision_Default/Polygon (158)/PolygonCollider2D
-    6000318: _MapPrfab/map_400x400/terrainsType/Collision_Default/Polygon (159)/PolygonCollider2D
-    6000320: _MapPrfab/map_400x400/terrainsType/Collision_Default/Polygon (160)/PolygonCollider2D
-    6000322: _MapPrfab/map_400x400/terrainsType/Collision_Default/Polygon (161)/PolygonCollider2D
-    6000324: _MapPrfab/map_400x400/terrainsType/Collision_Default/Polygon (162)/PolygonCollider2D
-    6000326: _MapPrfab/map_400x400/terrainsType/Collision_Default/Polygon (163)/PolygonCollider2D
-    6000328: _MapPrfab/map_400x400/terrainsType/Collision_Default/Polygon (164)/PolygonCollider2D
-    6000330: _MapPrfab/map_400x400/terrainsType/Collision_Default/Polygon (165)/PolygonCollider2D
-    6000332: _MapPrfab/map_400x400/terrainsType/Collision_Default/Polygon (166)/PolygonCollider2D
-    6000334: _MapPrfab/map_400x400/terrainsType/Collision_Default/Polygon (167)/PolygonCollider2D
-    6000336: _MapPrfab/map_400x400/terrainsType/Collision_Default/Polygon (168)/PolygonCollider2D
-    6000338: _MapPrfab/map_400x400/terrainsType/Collision_Default/Polygon (169)/PolygonCollider2D
-    6000340: _MapPrfab/map_400x400/terrainsType/Collision_Default/Polygon (170)/PolygonCollider2D
-    6000342: _MapPrfab/map_400x400/terrainsType/Collision_Default/Polygon (171)/PolygonCollider2D
-    6000344: _MapPrfab/map_400x400/terrainsType/Collision_Default/Polygon (172)/PolygonCollider2D
-    6000346: _MapPrfab/map_400x400/terrainsType/Collision_Default/Polygon (173)/PolygonCollider2D
     6600000: _MapPrfab/map_400x400/terrainsType/Collision_Default/CompositeCollider2D
     11400000: _MapPrfab/map_400x400/MonoBehaviour-SuperTiled2Unity.SuperMap
     11400002: _MapPrfab/map_400x400/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
@@ -705,23 +654,6 @@ ScriptedImporter:
     11400320: _MapPrfab/map_400x400/terrainsType/Collision_Default/Polygon (154)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
     11400322: _MapPrfab/map_400x400/terrainsType/Collision_Default/Polygon (155)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
     11400324: _MapPrfab/map_400x400/terrainsType/Collision_Default/Polygon (156)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
-    11400326: _MapPrfab/map_400x400/terrainsType/Collision_Default/Polygon (157)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
-    11400328: _MapPrfab/map_400x400/terrainsType/Collision_Default/Polygon (158)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
-    11400330: _MapPrfab/map_400x400/terrainsType/Collision_Default/Polygon (159)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
-    11400332: _MapPrfab/map_400x400/terrainsType/Collision_Default/Polygon (160)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
-    11400334: _MapPrfab/map_400x400/terrainsType/Collision_Default/Polygon (161)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
-    11400336: _MapPrfab/map_400x400/terrainsType/Collision_Default/Polygon (162)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
-    11400338: _MapPrfab/map_400x400/terrainsType/Collision_Default/Polygon (163)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
-    11400340: _MapPrfab/map_400x400/terrainsType/Collision_Default/Polygon (164)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
-    11400342: _MapPrfab/map_400x400/terrainsType/Collision_Default/Polygon (165)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
-    11400344: _MapPrfab/map_400x400/terrainsType/Collision_Default/Polygon (166)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
-    11400346: _MapPrfab/map_400x400/terrainsType/Collision_Default/Polygon (167)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
-    11400348: _MapPrfab/map_400x400/terrainsType/Collision_Default/Polygon (168)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
-    11400350: _MapPrfab/map_400x400/terrainsType/Collision_Default/Polygon (169)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
-    11400352: _MapPrfab/map_400x400/terrainsType/Collision_Default/Polygon (170)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
-    11400354: _MapPrfab/map_400x400/terrainsType/Collision_Default/Polygon (171)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
-    11400356: _MapPrfab/map_400x400/terrainsType/Collision_Default/Polygon (172)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
-    11400358: _MapPrfab/map_400x400/terrainsType/Collision_Default/Polygon (173)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
     11400464: _MapPrfab/map_400x400/ground/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
     11400466: _MapPrfab/map_400x400/ground/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
     11400468: _MapPrfab/map_400x400/props/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
