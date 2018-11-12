@@ -8,42 +8,7 @@
  </tile>
  <tile id="1">
   <objectgroup draworder="index">
-   <object id="1" x="64" y="0" width="64" height="128"/>
-  </objectgroup>
- </tile>
- <tile id="2">
-  <objectgroup draworder="index">
-   <object id="1" x="0" y="0" width="64" height="128"/>
-  </objectgroup>
- </tile>
- <tile id="5">
-  <objectgroup draworder="index">
-   <object id="1" x="0" y="64" width="128" height="64"/>
-  </objectgroup>
- </tile>
- <tile id="6">
-  <objectgroup draworder="index">
-   <object id="1" x="64" y="64" width="64" height="64"/>
-  </objectgroup>
- </tile>
- <tile id="7">
-  <objectgroup draworder="index">
-   <object id="1" x="0" y="64" width="64" height="64"/>
-  </objectgroup>
- </tile>
- <tile id="10">
-  <objectgroup draworder="index">
-   <object id="1" x="0" y="0" width="128" height="64"/>
-  </objectgroup>
- </tile>
- <tile id="11">
-  <objectgroup draworder="index">
-   <object id="1" x="64" y="0" width="64" height="64"/>
-  </objectgroup>
- </tile>
- <tile id="12">
-  <objectgroup draworder="index">
-   <object id="1" x="0" y="0" width="64" height="64"/>
+   <object id="1" x="0" y="0" width="128" height="128"/>
   </objectgroup>
  </tile>
 </tileset>
