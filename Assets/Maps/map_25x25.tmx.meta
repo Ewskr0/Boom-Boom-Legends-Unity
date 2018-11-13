@@ -1,0 +1,75 @@
+fileFormatVersion: 2
+guid: b1c91649338c8694ea71255914630812
+ScriptedImporter:
+  fileIDToRecycleName:
+    100000: _MapPrfab/map_25x25
+    100002: _MapPrfab/map_25x25/above
+    100004: _MapPrfab/map_25x25/ground
+    100006: _MapPrfab/map_25x25/interactive
+    100008: _MapPrfab/map_25x25/props
+    100010: _MapPrfab/map_25x25/terrain
+    100012: _MapPrfab/map_25x25/terrain/Collision_Default
+    100014: _MapPrfab/map_25x25/terrain/Collision_Default/Polygon
+    100016: _MapPrfab/map_25x25/terrain/Collision_Default/Polygon (1)
+    100018: _MapPrfab/map_25x25/terrain/Collision_Default/Polygon (2)
+    100020: _MapPrfab/map_25x25/terrain/Collision_Default/Polygon (3)
+    400000: _MapPrfab/map_25x25/Transform
+    400002: _MapPrfab/map_25x25/above/Transform
+    400004: _MapPrfab/map_25x25/ground/Transform
+    400006: _MapPrfab/map_25x25/interactive/Transform
+    400008: _MapPrfab/map_25x25/props/Transform
+    400010: _MapPrfab/map_25x25/terrain/Transform
+    400012: _MapPrfab/map_25x25/terrain/Collision_Default/Transform
+    400014: _MapPrfab/map_25x25/terrain/Collision_Default/Polygon/Transform
+    400016: _MapPrfab/map_25x25/terrain/Collision_Default/Polygon (1)/Transform
+    400018: _MapPrfab/map_25x25/terrain/Collision_Default/Polygon (2)/Transform
+    400020: _MapPrfab/map_25x25/terrain/Collision_Default/Polygon (3)/Transform
+    5000000: _MapPrfab/map_25x25/terrain/Collision_Default/Rigidbody2D
+    6000000: _MapPrfab/map_25x25/terrain/Collision_Default/Polygon/PolygonCollider2D
+    6000002: _MapPrfab/map_25x25/terrain/Collision_Default/Polygon (1)/PolygonCollider2D
+    6000004: _MapPrfab/map_25x25/terrain/Collision_Default/Polygon (2)/PolygonCollider2D
+    6000006: _MapPrfab/map_25x25/terrain/Collision_Default/Polygon (3)/PolygonCollider2D
+    6600000: _MapPrfab/map_25x25/terrain/Collision_Default/CompositeCollider2D
+    11400000: _MapPrfab/map_25x25/MonoBehaviour-SuperTiled2Unity.SuperMap
+    11400002: _MapPrfab/map_25x25/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400004: _MapPrfab/map_25x25/above/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400006: _MapPrfab/map_25x25/above/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400008: _MapPrfab/map_25x25/ground/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400010: _MapPrfab/map_25x25/ground/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400012: _MapPrfab/map_25x25/interactive/MonoBehaviour-SuperTiled2Unity.SuperObjectLayer
+    11400014: _MapPrfab/map_25x25/interactive/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400016: _MapPrfab/map_25x25/props/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400018: _MapPrfab/map_25x25/props/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400020: _MapPrfab/map_25x25/terrain/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400022: _MapPrfab/map_25x25/terrain/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400024: _MapPrfab/map_25x25/terrain/Collision_Default/Polygon/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400026: _MapPrfab/map_25x25/terrain/Collision_Default/Polygon (1)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400028: _MapPrfab/map_25x25/terrain/Collision_Default/Polygon (2)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400030: _MapPrfab/map_25x25/terrain/Collision_Default/Polygon (3)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400032: _superAsset
+    100100000: _MapPrfab
+    2569400265252428796: _MapPrfab/map_25x25/Grid
+    3664157343022684176: _MapPrfab/map_25x25/above/TilemapRenderer
+    3664157343022684178: _MapPrfab/map_25x25/ground/TilemapRenderer
+    3664157343022684180: _MapPrfab/map_25x25/props/TilemapRenderer
+    3664157343022684182: _MapPrfab/map_25x25/terrain/TilemapRenderer
+    8195094279510102542: _MapPrfab/map_25x25/above/Tilemap
+    8195094279510102544: _MapPrfab/map_25x25/ground/Tilemap
+    8195094279510102546: _MapPrfab/map_25x25/props/Tilemap
+    8195094279510102548: _MapPrfab/map_25x25/terrain/Tilemap
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 1fa25d03934ea624a82bf2fcee6f0873, type: 3}
+  errors: []
+  warnings: []
+  missingSortingLayers: []
+  missingLayers: []
+  pixelsPerUnit: 100
+  edgesPerEllipse: 32
+  tilesAsObjects: 0
+  importSorting: 0
+  isIsometric: 0
+  customImporterClassName: 
+  internalTilesets: []

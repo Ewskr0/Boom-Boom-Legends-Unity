@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class CharacterMovementModel : MonoBehaviour
 {
-
     public float speed;
     private Vector3 m_MovementDirection;
     private Rigidbody2D m_body;
@@ -13,6 +12,12 @@ public class CharacterMovementModel : MonoBehaviour
     {
         m_body = GetComponent<Rigidbody2D>();
     }
+
+    void Start()
+        {
+            SetDirection(new Vector2(0, -1));
+        }
+
 
     void Update () 
         {

@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class CharacterBaseControl : MonoBehaviour
 {
-
     protected CharacterMovementModel m_MovementModel;
     protected CharacterInteractionModel m_InteractionModel;
 
@@ -20,8 +19,8 @@ public class CharacterBaseControl : MonoBehaviour
         m_MovementModel.SetDirection(direction);
     }
 
-    protected void SetBomb()
+    protected void DropBomb()
         {
-            return;
+            m_InteractionModel.DropBomb();
         }
 }

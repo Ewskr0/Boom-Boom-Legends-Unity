@@ -4,20 +4,20 @@ using UnityEngine;
 
 public class CharacterMovementKeyboardControl : CharacterBaseControl
 {
-
 	void Start () {
 		
 	}
 	
 	void Update () {
 		UpdateDirection();
+        UpdateAction();
 	}
 
     void UpdateAction()
         {   
-            if (Input.GetKey(KeyCode.Space))
+            if (Input.GetKeyDown(KeyCode.Space))
             {
-                SetBomb();
+                DropBomb();
             }  
         }
 

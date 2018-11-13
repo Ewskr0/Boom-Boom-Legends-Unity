@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class CharacterMovementView : MonoBehaviour
 {
-
     private Animator Animator;  
     private CharacterMovementModel  m_MovementModel;
 
